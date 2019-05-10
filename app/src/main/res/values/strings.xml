@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListeApp</string>
+        <string-array name="nameArray">
+            <item>Romain</item>
+            <item>Maxime</item>
+            <item>Damien</item>
+            <item>Christophe</item>
+            <item>JD</item>
+            <item>JP</item>
+            <item>Aude</item>
+            <item>Evrard</item>
+            <item>Vincent</item>
+            <item>Loris</item>
+            <item>Gaetan</item>
+        </string-array>
+</resources>
